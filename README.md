@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/guilhermefmk?label=follow&style=social)](https://github.com/guilhermefmk)
 
 
-### <img src="https://media.giphy.com/media/YSMhnqYqSJ4UhyuJcn/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/5vkkL9eTAAbGbGG7pI/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const gui = {
