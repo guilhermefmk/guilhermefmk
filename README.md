@@ -1,5 +1,5 @@
 <h2> Hi, I'm Guilherme Cunha! <img src="https://media.giphy.com/media/eMDwKKF38phaYiIDRr/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="140">
 <p><em>Student at <a href="https://ifrs.edu.br/riogrande/">IFRS - Rio Grande</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Service Desk Senior Analyst at <a href="https://vetorial.net/">Vetorial Internet</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
