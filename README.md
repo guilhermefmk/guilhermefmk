@@ -1,6 +1,6 @@
-<h2> Hi, I'm Guilherme Cunha! <img src="https://media.giphy.com/media/eMDwKKF38phaYiIDRr/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Guilherme Cunha! </h2>
 <img align='right' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="140">
-<p><em>Student at <a href="https://ifrs.edu.br/riogrande/">IFRS - Rio Grande</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Service Desk Senior Analyst at <a href="https://vetorial.net/">Vetorial Internet</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="http://divcomp.riogrande.ifrs.edu.br/superior">IFRS - Rio Grande (Tecnólogo em Análise e Desenvolvimento de Sistemas)</a></br>Service Desk Senior Analyst at <a href="https://vetorial.net/">Vetorial Internet</a> 
 </em></p>
 
 [![Twitter: cunhaguilherme4](https://img.shields.io/twitter/follow/cunhaguilherme4?style=social)](https://twitter.com/cunhaguilherme4)
@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/guilhermefmk?label=follow&style=social)](https://github.com/guilhermefmk)
 
 
-### <img src="https://media.giphy.com/media/UelA611ViOheThD6vb/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/YSMhnqYqSJ4UhyuJcn/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const gui = {
@@ -18,7 +18,12 @@ const gui = {
                         chatbots: "In progress",
                         APIs: "In progress"
                       },
- challenge: "Constantly improve skills, seeking to develop myself as a software engineer"
+  challenge: "Constantly improve skills, looking to become a software engineer",
+  fun-facts: {
+                      pinkfloyd: "my user among the top 0.01% pink floyd 
+                                   listeners in the world on spotify(2021)",
+                      comics: "DC > Marvel"
+                      }
 }
 ```
 ---
