@@ -13,7 +13,7 @@
 ```javascript
 const gui = {
   code: [Python, Java, HTML, CSS, JavaScript, Python, Java, BashScript],
-  soft-skills: [Focus, Empathy, Collaboration, Empathy, Time_management, Common_sense],
+  soft-skills: [Focus, Empathy, Collaboration, Empathy, Time_management],
   interests: {
                         chatbots: "In progress",
                         APIs: "In progress"
