@@ -16,10 +16,10 @@ const gui = {
   soft-skills: [Focus, Empathy, Collaboration, Empathy, Time_management],
   challenge: "Constantly improve skills, looking to become a software engineer",
   fun-facts: {
-                      pinkfloyd: "my user among the top 0.01% pink floyd 
-                                   listeners in the world on spotify(2021)",
-                      comics: "DC > Marvel"
-                      }
+              pinkfloyd: "my user among the top 0.01% pink floyd 
+                          listeners in the world on spotify(2021)",
+              comics: "DC > Marvel"
+             }
 }
 ```
 ---
