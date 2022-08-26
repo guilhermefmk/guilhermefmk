@@ -14,10 +14,6 @@
 const gui = {
   code: [Python, Java, HTML, CSS, JavaScript, Python, Java, BashScript],
   soft-skills: [Focus, Empathy, Collaboration, Empathy, Time_management],
-  interests: {
-                        chatbots: "In progress",
-                        APIs: "In progress"
-                      },
   challenge: "Constantly improve skills, looking to become a software engineer",
   fun-facts: {
                       pinkfloyd: "my user among the top 0.01% pink floyd 
