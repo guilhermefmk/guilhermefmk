@@ -12,8 +12,8 @@
 
 ```javascript
 const gui = {
-  code: [Python, Java, HTML, CSS, JavaScript, Python, BashScript],
-  soft-skills: [Focus, Empathy, Collaboration, Empathy, Time_management],
+  code: [Python, Java, Cloud computing, pySpark, JavaScript, bashscript],
+  soft-skills: [Focus, Empathy, Collaboration, Time_management],
   challenge: "Constantly improve skills, looking to become a software engineer",
   fun-facts: {
               pinkfloyd: "my user among the top 0.01% pink floyd 
