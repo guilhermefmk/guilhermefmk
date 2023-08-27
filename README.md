@@ -1,6 +1,6 @@
 <h2> Hi, I'm Guilherme Cunha! </h2>
 <img align='right' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="140">
-<p><em>Student at <a href="http://divcomp.riogrande.ifrs.edu.br/superior">IFRS - Rio Grande (Tecnólogo em Análise e Desenvolvimento de Sistemas)</a></br>Service Desk Senior Analyst at <a href="https://vetorial.net/">Vetorial Internet</a> 
+<p><em>Student at <a href="http://divcomp.riogrande.ifrs.edu.br/superior">IFRS - Rio Grande (Tecnólogo em Análise e Desenvolvimento de Sistemas)</a></br>Data Engineer at <a href="https://compass.uol/">Compass.uol</a> 
 </em></p>
 
 [![Twitter: cunhaguilherme4](https://img.shields.io/twitter/follow/cunhaguilherme4?style=social)](https://twitter.com/cunhaguilherme4)
