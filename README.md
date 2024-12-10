@@ -13,7 +13,7 @@ Sr Data Engineer
 const gui = {
   code: [Python, CloudComputing, pySpark, bigData, bashScript],
   fun-facts: {
-              pinkfloyd: "my user among the top 0.01% pink floyd 
+              pinkfloyd: "my user among the top 0.001% pink floyd 
                           listeners in the world on spotify(2021)",
               comics: "DC > Marvel"
              }
