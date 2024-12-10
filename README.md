@@ -1,6 +1,6 @@
 <h2> Hi, I'm Guilherme Cunha! </h2>
 <img align='right' src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="140">
-<p><em>Student at <a href="http://divcomp.riogrande.ifrs.edu.br/superior">IFRS - Rio Grande (Tecnólogo em Análise e Desenvolvimento de Sistemas)</a></br>Sr Data Engineer 
+Sr Data Engineer 
 </em></p>
 
 [![Linkedin: guilhermercunha](https://img.shields.io/badge/-guilhermercunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermercunha/)](https://www.linkedin.com/in/guilhermercunha)
